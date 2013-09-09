@@ -32,3 +32,8 @@ untuk android device tinggal import ke Android Studio trus compile
 http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/
 
 http://www.techrepublic.com/blog/android-app-builder/a-quick-tutorial-on-coding-androids-accelerometer/
+
+
+
+
+(◕‿◕✿) Sarasvati
