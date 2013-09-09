@@ -6,7 +6,7 @@ yang bertugas untuk
  - dan menampilkan data tersebut melalui halaman web
 
 client sendiri bertugas untuk
- - mendeteksi vibrasti 
+ - mendetekShakerProjectsi vibrasi 
  - dan mengirimkan data vibrasi tersebut
 
 Android device dan server harus berada dalam satu network agar komunikasi dapat dilakukan (IP server harus dimasukkan terlebih dahulu).
@@ -17,8 +17,8 @@ untuk menjalankannya copy directory "shaker" ke directory web
 lalu buat database dengan nama "shaker" kemudian import database yang ada pada "shaker.sql"
 untuk melihat data tinggal buka http://localhost/shaker/
 
-*Directory Shaker*
-Project untuk android device tinggal import ke Android Studio trus compile 
+*Directory ShakerProject*
+untuk android device tinggal import ke Android Studio trus compile 
                  
                  
                  *****************************
