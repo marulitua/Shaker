@@ -6,7 +6,7 @@ yang bertugas untuk
  - dan menampilkan data tersebut melalui halaman web
 
 client sendiri bertugas untuk
- - mendetekShakerProjectsi vibrasi 
+ - mendeteksi vibrasi 
  - dan mengirimkan data vibrasi tersebut
 
 Android device dan server harus berada dalam satu network agar komunikasi dapat dilakukan (IP server harus dimasukkan terlebih dahulu).
